@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\user_39\AndroidStudioProjects\FragmentBasics\app\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="53307dc2bd2b69fd5533458ee11885f55807de4b">
+        <dex dex="C:\Users\user_39\AndroidStudioProjects\FragmentBasics\app\build\intermediates\pre-dexed\debug\android-support-v4-5763c139fce2cbe0d86aade9e2154140e1e6e2a4.jar" />
+    </item>
+
+</items>
